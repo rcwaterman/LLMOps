@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# LLMOps
-AI Makerspace LLMOps bootcamp course work.
-=======
 ---
 title: BeyondChatGPT Demo
 emoji: 📉
